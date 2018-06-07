@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27703.2026
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpToSqlLibrary", "CSharpToSqlLibrary\CSharpToSqlLibrary.csproj", "{66A880FF-9618-4E28-A617-5029F7A7D9B4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SqlLibrary", "SqlLibrary\SqlLibrary.csproj", "{1E8F20D5-26D1-4D1E-AA48-CC3AC0DCBFFB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{66A880FF-9618-4E28-A617-5029F7A7D9B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{66A880FF-9618-4E28-A617-5029F7A7D9B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{66A880FF-9618-4E28-A617-5029F7A7D9B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E8F20D5-26D1-4D1E-AA48-CC3AC0DCBFFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E8F20D5-26D1-4D1E-AA48-CC3AC0DCBFFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E8F20D5-26D1-4D1E-AA48-CC3AC0DCBFFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E8F20D5-26D1-4D1E-AA48-CC3AC0DCBFFB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
